@@ -20,3 +20,4 @@ npm i
 
 ## //TODO
 - eval channel
+- custom commands
