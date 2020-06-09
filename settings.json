@@ -1,0 +1,7 @@
+{
+    "owner_id": "Discord User ID",
+    "owner_server": "Discord Server ID",
+    "exec_channel": "Discord Channel ID",
+    "eval_channel": "not here yet",
+    "cmd_prefix": "cmd"
+}
